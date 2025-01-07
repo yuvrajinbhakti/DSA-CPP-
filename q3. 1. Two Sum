@@ -1,0 +1,91 @@
+/*
+1. Two Sum
+Easy
+Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.
+
+You may assume that each input would have exactly one solution, and you may not use the same element twice.
+
+You can return the answer in any order.
+
+ 
+
+Example 1:
+
+Input: nums = [2,7,11,15], target = 9
+Output: [0,1]
+Explanation: Because nums[0] + nums[1] == 9, we return [0, 1].
+Example 2:
+
+Input: nums = [3,2,4], target = 6
+Output: [1,2]
+Example 3:
+
+Input: nums = [3,3], target = 6
+Output: [0,1]
+ 
+
+Constraints:
+
+2 <= nums.length <= 104
+-109 <= nums[i] <= 109
+-109 <= target <= 109
+Only one valid answer exists.
+ 
+
+Follow-up: Can you come up with an algorithm that is less than O(n2) time complexity?
+*/
+
+
+class Solution {
+public:
+    vector<int> twoSum(vector<int>& nums, int target) {
+     /*method 1 - T.C. - O(N^2), S.C. - O(1)
+     for(int i=0;i<nums.size()-1;i++){
+        for(int j=i+1;j<nums.size();j++){
+            if(nums[i]+nums[j]==target)return {i,j};
+        }
+     }   
+     return {};
+    */
+/*method 2 - use map(2 pass) , T.C. - O(2N), S.C. - O(N)
+map<int,int> mpp;
+for(int i=0;i<nums.size();i++){
+    mpp[nums[i]]=i;
+}
+for(int j=0;j<nums.size();j++){
+    int leftsum=target-nums[j];
+    if(mpp.find(leftsum)!=mpp.end() && mpp[leftsum]!=j)return {j,mpp[leftsum]};
+}
+return {};
+*/
+/*method 2 optimised - use map(1 pass) , T.C. - O(N), S.C. - O(N)
+map<int,int> mpp;
+
+for(int j=0;j<nums.size();j++){
+    int leftsum=target-nums[j];
+    if(mpp.find(leftsum)!=mpp.end() && mpp[leftsum]!=j)return {j,mpp[leftsum]};
+    mpp[nums[j]]=j;
+}
+return {};
+*/
+
+//method 3 - 2 pointer , T.C. -O(N Log N),S.C.-O(1)
+int l=0,r=nums.size()-1;
+        vector<pair<int, int>> sortedNums(nums.size());
+        for(int i = 0; i < nums.size(); i++) {
+            sortedNums[i] = {nums[i], i}; 
+        }
+        sort(sortedNums.begin(),sortedNums.end());
+        while (l < r) {
+            int temp = sortedNums[l].first + sortedNums[r].first;
+            if (temp == target) {
+                return {sortedNums[l].second, sortedNums[r].second};
+            } else if (temp < target) {
+                l++;
+            } else {
+                r--;
+            }
+        }
+        return {-1,-1};     
+    }
+};
