@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0040-combination-sum-ii) |
 | [0090-subsets-ii](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0090-subsets-ii) |
 | [0407-trapping-rain-water-ii](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0407-trapping-rain-water-ii) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -41,6 +42,7 @@
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0040-combination-sum-ii) |
 | [0090-subsets-ii](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0090-subsets-ii) |
 ## Bit Manipulation
 |  |
