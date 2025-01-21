@@ -1,0 +1,11 @@
+notes
+
+** recursion
+2 patterns
+1.take ,not take
+2.loop index to n--1 and then possible,not possible 
+like f(index,target,dataStrucutre,arr, ans)
+-> loop(index->n-1) i
+if(arr[i]>target) break;
+-> possible(then dataStructure.add(arr[i]), f(i+1,target-arr[i],dataStrcutre,ans), dataStructure.remove() ) or not possible
+base case if(target==0)ans.add(dataStructure)
