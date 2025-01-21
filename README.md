@@ -8,6 +8,7 @@
 | [0040-combination-sum-ii](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0040-combination-sum-ii) |
 | [0053-maximum-subarray](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0053-maximum-subarray) |
 | [0090-subsets-ii](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0090-subsets-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0407-trapping-rain-water-ii](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0407-trapping-rain-water-ii) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2145-grid-game](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2145-grid-game) |
@@ -63,4 +64,5 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
