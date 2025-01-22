@@ -11,6 +11,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0407-trapping-rain-water-ii](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0407-trapping-rain-water-ii) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1876-map-of-highest-peak](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1876-map-of-highest-peak) |
 | [2145-grid-game](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2145-grid-game) |
 | [2685-first-completely-painted-row-or-column](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2685-first-completely-painted-row-or-column) |
 ## Breadth-First Search
@@ -18,6 +19,7 @@
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0407-trapping-rain-water-ii) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1876-map-of-highest-peak](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1876-map-of-highest-peak) |
 ## Graph
 |  |
 | ------- |
@@ -32,6 +34,7 @@
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0407-trapping-rain-water-ii) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1876-map-of-highest-peak](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1876-map-of-highest-peak) |
 | [2145-grid-game](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2145-grid-game) |
 | [2685-first-completely-painted-row-or-column](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2685-first-completely-painted-row-or-column) |
 ## Shortest Path
