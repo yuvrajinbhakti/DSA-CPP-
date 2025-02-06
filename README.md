@@ -68,6 +68,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0141-linked-list-cycle) |
 | [1364-tuple-with-same-product](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2685-first-completely-painted-row-or-column](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2685-first-completely-painted-row-or-column) |
@@ -144,6 +145,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
@@ -164,4 +166,8 @@
 | ------- |
 | [0783-search-in-a-binary-search-tree](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0783-search-in-a-binary-search-tree) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1475-maximum-sum-bst-in-binary-tree) |
+## Two Pointers
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
