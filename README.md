@@ -109,10 +109,12 @@
 | [0020-valid-parentheses](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0242-valid-anagram) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [3447-clear-digits](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3447-clear-digits) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0020-valid-parentheses) |
+| [3447-clear-digits](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3447-clear-digits) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -184,6 +186,7 @@
 |  |
 | ------- |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3447-clear-digits](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3447-clear-digits) |
 ## Design
 |  |
 | ------- |
