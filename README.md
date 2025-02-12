@@ -20,6 +20,7 @@
 | [1927-maximum-ascending-subarray-sum](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2145-grid-game](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2145-grid-game) |
 | [2448-count-number-of-bad-pairs](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2448-count-number-of-bad-pairs) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2685-first-completely-painted-row-or-column](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2685-first-completely-painted-row-or-column) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -54,6 +55,7 @@
 | [0407-trapping-rain-water-ii](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0407-trapping-rain-water-ii) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2434-design-a-number-container-system](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2434-design-a-number-container-system) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Matrix
 |  |
 | ------- |
@@ -78,6 +80,7 @@
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2434-design-a-number-container-system](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2434-design-a-number-container-system) |
 | [2448-count-number-of-bad-pairs](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2448-count-number-of-bad-pairs) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2685-first-completely-painted-row-or-column](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2685-first-completely-painted-row-or-column) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Backtracking
@@ -157,6 +160,7 @@
 | ------- |
 | [0056-merge-intervals](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0056-merge-intervals) |
 | [0242-valid-anagram](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0242-valid-anagram) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Linked List
 |  |
