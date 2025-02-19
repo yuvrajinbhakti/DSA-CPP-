@@ -98,6 +98,7 @@
 | [0040-combination-sum-ii](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0040-combination-sum-ii) |
 | [0090-subsets-ii](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0090-subsets-ii) |
 | [1160-letter-tile-possibilities](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1160-letter-tile-possibilities) |
+| [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2802-find-the-punishment-number-of-an-integer) |
@@ -127,6 +128,7 @@
 | [0020-valid-parentheses](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0242-valid-anagram) |
 | [1160-letter-tile-possibilities](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1160-letter-tile-possibilities) |
+| [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2456-construct-smallest-number-from-di-string) |
