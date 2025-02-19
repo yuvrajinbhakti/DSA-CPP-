@@ -1,0 +1,31 @@
+Given a connected undirected graph represented by an adjacency list adj, which is a vector of vectors where each adj[i] represents the list of vertices connected to vertex i. Perform a Depth First Traversal (DFS) starting from vertex 0, visiting vertices from left to right as per the adjacency list, and return a list containing the DFS traversal of the graph.
+
+Note: Do traverse in the same order as they are in the adjacency list.
+
+
+
+
+
+
+class Solution {
+    private:
+    void dfs(int node,vector<int> &ans,vector<vector<int>> &adj,vector<int>&vis){
+  vis[node]=1;
+  ans.push_back(node);
+  for(int i=0;i<adj[node].size();i++){
+      if(!vis[adj[node][i]])dfs(adj[node][i],ans,adj,vis);
+  }
+    }
+  public:
+    // Function to return a list containing the DFS traversal of the graph.
+    vector<int> dfsOfGraph(vector<vector<int>>& adj) {
+
+    vector<int> vis(adj.size(),0);
+        int start = 0;
+        // create a list to store dfs
+        vector<int> ls; 
+        // call dfs for starting node
+        dfs(start, ls,adj, vis ); 
+        return ls;
+    }
+};
