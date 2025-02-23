@@ -15,6 +15,7 @@
 | [0493-reverse-pairs](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0496-next-greater-element-i) |
 | [0854-making-a-large-island](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0854-making-a-large-island) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1364-tuple-with-same-product](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1396-count-servers-that-communicate) |
 | [1477-product-of-the-last-k-numbers](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1477-product-of-the-last-k-numbers) |
@@ -88,6 +89,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0142-linked-list-cycle-ii) |
 | [0242-valid-anagram](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0242-valid-anagram) |
 | [0496-next-greater-element-i](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0496-next-greater-element-i) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1364-tuple-with-same-product) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -125,6 +127,7 @@
 | [0053-maximum-subarray](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0053-maximum-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0493-reverse-pairs](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0493-reverse-pairs) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -215,6 +218,7 @@
 | ------- |
 | [0662-maximum-width-of-binary-tree](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0783-search-in-a-binary-search-tree) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1475-maximum-sum-bst-in-binary-tree) |
@@ -229,6 +233,7 @@
 | ------- |
 | [0662-maximum-width-of-binary-tree](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0783-search-in-a-binary-search-tree) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1475-maximum-sum-bst-in-binary-tree) |
