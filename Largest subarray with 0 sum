@@ -1,0 +1,89 @@
+Given an array arr containing both positive and negative integers, the task is to compute the length of the largest subarray that has a sum of 0.
+
+Examples:
+
+Input: arr[] = [15, -2, 2, -8, 1, 7, 10, 23]
+Output: 5
+Explanation: The largest subarray with a sum of 0 is [-2, 2, -8, 1, 7].
+Input: arr[] = [2, 10, 4]
+Output: 0
+Explanation: There is no subarray with a sum of 0.
+Input: arr[] = [1, 0, -4, 3, 1, 0]
+Output: 5
+Explanation: The subarray is [0, -4, 3, 1, 0].
+Constraints:
+1 ≤ arr.size() ≤ 106
+−103 ≤ arr[i] ≤ 103, for each valid i
+
+
+
+
+
+// class Solution {
+//   public:
+//     int maxLen(vector<int>& arr) {
+//         int ans=0,minTime=0;
+//         for(int i=0;i<arr.size();i++)if(arr[i]==0)minTime=1;
+//         for(int i=0;i<arr.size()-1;i++){
+//             int currSum=arr[i];
+//             for(int j=i+1;j<arr.size();j++){
+//             currSum=currSum+arr[j];
+//             if(currSum==0)ans=max(ans,j-i+1);
+//             }
+//         }
+//         return max(ans,minTime);
+//     }
+// };
+
+//2nd approach - use map
+// class Solution {
+//   public:
+//     int maxLen(vector<int>& arr) {
+//       unordered_map<int,int> mpp;
+//       int sum=0,maxi=0,n=arr.size();
+//       for(int i=0;i<n;i++){
+//           sum+=arr[i];
+//           if(sum==0)maxi=i+1;
+//           else{
+//               if(mpp.find(sum)!=mpp.end()){
+//                   maxi=max(maxi,i-mpp[sum]);
+//               }
+//               else{
+//                   mpp[sum]=i;
+//               }
+//           }
+//       }
+//       return maxi;
+//     }
+// };
+
+// Function to find the maximum length subarray with sum 0.
+class Solution {
+  public:
+    int maxLen(vector<int>& arr) {
+        // Initializing a map to store the prefix sum and its index.
+        unordered_map<int, int> p;
+        int sum = 0;
+        int len = 0;
+
+        // Iterating over the array.
+        for (int i = 0; i < arr.size(); i++) {
+            sum += arr[i];
+            if (arr[i] == 0 && len == 0)
+                len = 1;
+            if (sum == 0)
+                len = i + 1;
+
+            // Checking if the current sum has been encountered before.
+            if (p.find(sum) != p.end()) {
+                // Updating the maximum length if a previous sum is found.
+                len = max(len, i - p[sum]);
+            } else {
+                // Storing the current sum and its index in the map.
+                p[sum] = i;
+            }
+        }
+        // Returning the maximum length of subarray with sum 0.
+        return len;
+    }
+};
