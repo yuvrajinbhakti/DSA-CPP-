@@ -90,6 +90,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0142-linked-list-cycle-ii) |
 | [0242-valid-anagram](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0242-valid-anagram) |
@@ -144,6 +145,7 @@
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0242-valid-anagram) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -273,6 +275,7 @@
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0013-roman-to-integer) |
 | [1477-product-of-the-last-k-numbers](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2448-count-number-of-bad-pairs](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2448-count-number-of-bad-pairs) |
