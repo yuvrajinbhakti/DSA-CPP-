@@ -96,6 +96,7 @@
 | [0013-roman-to-integer](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0146-lru-cache) |
 | [0242-valid-anagram](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0242-valid-anagram) |
 | [0496-next-greater-element-i](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0496-next-greater-element-i) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -228,6 +229,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0234-palindrome-linked-list) |
 ## Recursion
@@ -279,6 +281,7 @@
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0146-lru-cache) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1477-product-of-the-last-k-numbers) |
 | [2434-design-a-number-container-system](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2434-design-a-number-container-system) |
@@ -323,4 +326,8 @@
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0493-reverse-pairs) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
