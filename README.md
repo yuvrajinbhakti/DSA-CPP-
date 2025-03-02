@@ -159,6 +159,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0020-valid-parentheses) |
+| [0038-count-and-say](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0038-count-and-say) |
 | [0242-valid-anagram](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0242-valid-anagram) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1160-letter-tile-possibilities) |
