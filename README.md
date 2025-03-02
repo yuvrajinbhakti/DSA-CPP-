@@ -6,6 +6,7 @@
 | ------- |
 | [0039-combination-sum](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0040-combination-sum-ii) |
+| [0051-n-queens](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0056-merge-intervals) |
 | [0090-subsets-ii](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0090-subsets-ii) |
@@ -118,6 +119,7 @@
 | ------- |
 | [0039-combination-sum](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0040-combination-sum-ii) |
+| [0051-n-queens](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0051-n-queens) |
 | [0090-subsets-ii](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0090-subsets-ii) |
 | [1160-letter-tile-possibilities](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
