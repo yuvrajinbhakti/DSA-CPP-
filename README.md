@@ -13,6 +13,7 @@
 | [0090-subsets-ii](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0215-kth-largest-element-in-an-array](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0215-kth-largest-element-in-an-array) |
+| [0287-find-the-duplicate-number](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0287-find-the-duplicate-number) |
 | [0407-trapping-rain-water-ii](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0407-trapping-rain-water-ii) |
 | [0485-max-consecutive-ones](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0493-reverse-pairs) |
@@ -136,6 +137,7 @@
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0090-subsets-ii) |
+| [0287-find-the-duplicate-number](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0287-find-the-duplicate-number) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -266,6 +268,7 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0098-validate-binary-search-tree) |
+| [0287-find-the-duplicate-number](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0287-find-the-duplicate-number) |
 | [0493-reverse-pairs](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0493-reverse-pairs) |
 | [0783-search-in-a-binary-search-tree](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0783-search-in-a-binary-search-tree) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1475-maximum-sum-bst-in-binary-tree) |
@@ -287,6 +290,7 @@
 | [0141-linked-list-cycle](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0142-linked-list-cycle-ii) |
 | [0234-palindrome-linked-list](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0234-palindrome-linked-list) |
+| [0287-find-the-duplicate-number](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0287-find-the-duplicate-number) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Simulation
