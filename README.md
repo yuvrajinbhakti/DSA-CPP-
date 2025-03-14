@@ -22,6 +22,7 @@
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1036-rotting-oranges](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1036-rotting-oranges) |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1364-tuple-with-same-product](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1396-count-servers-that-communicate) |
 | [1477-product-of-the-last-k-numbers](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1477-product-of-the-last-k-numbers) |
@@ -290,6 +291,7 @@
 | [0493-reverse-pairs](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0493-reverse-pairs) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0783-search-in-a-binary-search-tree) |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [3643-zero-array-transformation-ii](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3643-zero-array-transformation-ii) |
 ## Binary Tree
