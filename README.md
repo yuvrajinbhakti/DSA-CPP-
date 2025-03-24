@@ -48,6 +48,7 @@
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3429-special-array-i](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3429-special-array-i) |
+| [3430-count-days-without-meetings](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3430-count-days-without-meetings) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3643-zero-array-transformation-ii](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3643-zero-array-transformation-ii) |
@@ -265,6 +266,7 @@
 | [0242-valid-anagram](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0242-valid-anagram) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3430-count-days-without-meetings](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3430-count-days-without-meetings) |
 ## Linked List
 |  |
 | ------- |
