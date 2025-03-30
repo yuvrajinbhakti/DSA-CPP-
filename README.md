@@ -126,6 +126,7 @@
 | [0242-valid-anagram](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0242-valid-anagram) |
 | [0496-next-greater-element-i](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0496-next-greater-element-i) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0768-partition-labels](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0768-partition-labels) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1160-letter-tile-possibilities) |
@@ -199,6 +200,7 @@
 | [0038-count-and-say](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0038-count-and-say) |
 | [0151-reverse-words-in-a-string](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0242-valid-anagram) |
+| [0768-partition-labels](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0768-partition-labels) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1160-letter-tile-possibilities) |
 | [1170-shortest-common-supersequence](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1170-shortest-common-supersequence) |
@@ -344,6 +346,7 @@
 | [0234-palindrome-linked-list](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0287-find-the-duplicate-number) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0768-partition-labels](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0768-partition-labels) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -390,6 +393,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0768-partition-labels](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0768-partition-labels) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3001-apply-operations-to-maximize-score](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3001-apply-operations-to-maximize-score) |
 ## Monotonic Stack
