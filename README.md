@@ -34,6 +34,7 @@
 | [1927-maximum-ascending-subarray-sum](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2107-find-unique-binary-string](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2107-find-unique-binary-string) |
 | [2145-grid-game](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2145-grid-game) |
+| [2262-solving-questions-with-brainpower](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2262-solving-questions-with-brainpower) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2448-count-number-of-bad-pairs](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -193,6 +194,7 @@
 | [1250-longest-common-subsequence](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1250-longest-common-subsequence) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [2262-solving-questions-with-brainpower](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2262-solving-questions-with-brainpower) |
 ## String
 |  |
 | ------- |
