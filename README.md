@@ -15,6 +15,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0287-find-the-duplicate-number](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0287-find-the-duplicate-number) |
 | [0407-trapping-rain-water-ii](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0407-trapping-rain-water-ii) |
+| [0416-partition-equal-subset-sum](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0416-partition-equal-subset-sum) |
 | [0485-max-consecutive-ones](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0496-next-greater-element-i) |
@@ -190,6 +191,7 @@
 | [0053-maximum-subarray](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0416-partition-equal-subset-sum](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0416-partition-equal-subset-sum) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1170-shortest-common-supersequence](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1250-longest-common-subsequence) |
