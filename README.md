@@ -311,6 +311,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0234-palindrome-linked-list) |
+| [2050-count-good-numbers](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2050-count-good-numbers) |
 ## Tree
 |  |
 | ------- |
@@ -389,6 +390,7 @@
 | [0013-roman-to-integer](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0013-roman-to-integer) |
 | [1477-product-of-the-last-k-numbers](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [2050-count-good-numbers](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2050-count-good-numbers) |
 | [2448-count-number-of-bad-pairs](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2448-count-number-of-bad-pairs) |
 | [2610-closest-prime-numbers-in-range](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2649-count-total-number-of-colored-cells) |
