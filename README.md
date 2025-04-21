@@ -35,6 +35,7 @@
 | [1927-maximum-ascending-subarray-sum](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2107-find-unique-binary-string](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2107-find-unique-binary-string) |
 | [2145-grid-game](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2145-grid-game) |
+| [2249-count-the-hidden-sequences](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2249-count-the-hidden-sequences) |
 | [2262-solving-questions-with-brainpower](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2262-solving-questions-with-brainpower) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
@@ -184,6 +185,7 @@
 | [1477-product-of-the-last-k-numbers](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2145-grid-game](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2145-grid-game) |
+| [2249-count-the-hidden-sequences](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2249-count-the-hidden-sequences) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3643-zero-array-transformation-ii](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3643-zero-array-transformation-ii) |
 ## Divide and Conquer
