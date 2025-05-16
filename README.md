@@ -60,6 +60,7 @@
 | [2888-minimum-index-of-a-valid-split](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2915-count-of-interesting-subarrays](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2915-count-of-interesting-subarrays) |
 | [3001-apply-operations-to-maximize-score](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3001-apply-operations-to-maximize-score) |
+| [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
@@ -227,6 +228,7 @@
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2262-solving-questions-with-brainpower](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2262-solving-questions-with-brainpower) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2415-count-the-number-of-ideal-arrays) |
+| [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -254,6 +256,7 @@
 | [2107-find-unique-binary-string](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2107-find-unique-binary-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3447-clear-digits](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3447-clear-digits) |
