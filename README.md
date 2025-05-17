@@ -10,6 +10,7 @@
 | [0051-n-queens](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0075-sort-colors) |
 | [0090-subsets-ii](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0215-kth-largest-element-in-an-array](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0215-kth-largest-element-in-an-array) |
@@ -327,6 +328,7 @@
 | ------- |
 | [0015-3sum](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0242-valid-anagram) |
 | [2215-finding-3-digit-even-numbers](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2215-finding-3-digit-even-numbers) |
@@ -399,6 +401,7 @@
 | ------- |
 | [0015-3sum](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0015-3sum) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0075-sort-colors](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0151-reverse-words-in-a-string) |
