@@ -109,6 +109,7 @@
 | [0820-find-eventual-safe-states](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0820-find-eventual-safe-states) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1558-course-schedule-iv](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1558-course-schedule-iv) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
@@ -163,6 +164,7 @@
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1500-count-largest-group](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1500-count-largest-group) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2107-find-unique-binary-string](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2107-find-unique-binary-string) |
 | [2215-finding-3-digit-even-numbers](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2215-finding-3-digit-even-numbers) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -236,6 +238,7 @@
 | [1250-longest-common-subsequence](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1250-longest-common-subsequence) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [2262-solving-questions-with-brainpower](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2262-solving-questions-with-brainpower) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2415-count-the-number-of-ideal-arrays) |
@@ -325,6 +328,7 @@
 | [1364-tuple-with-same-product](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1396-count-servers-that-communicate) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2448-count-number-of-bad-pairs](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2448-count-number-of-bad-pairs) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -335,6 +339,7 @@
 | [0207-course-schedule](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0207-course-schedule) |
 | [0820-find-eventual-safe-states](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0820-find-eventual-safe-states) |
 | [1558-course-schedule-iv](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1558-course-schedule-iv) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 ## Sorting
 |  |
@@ -551,4 +556,8 @@
 | ------- |
 | [2215-finding-3-digit-even-numbers](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2215-finding-3-digit-even-numbers) |
 | [3548-find-the-count-of-good-integers](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3548-find-the-count-of-good-integers) |
+## Memoization
+|  |
+| ------- |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1986-largest-color-value-in-a-directed-graph) |
 <!---LeetCode Topics End-->
