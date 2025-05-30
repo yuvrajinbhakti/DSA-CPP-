@@ -113,6 +113,7 @@
 | [1558-course-schedule-iv](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1558-course-schedule-iv) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
+| [2438-find-closest-node-to-given-two-nodes](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
@@ -309,6 +310,7 @@
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1558-course-schedule-iv](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1558-course-schedule-iv) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
+| [2438-find-closest-node-to-given-two-nodes](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
