@@ -307,6 +307,7 @@
 | [0098-validate-binary-search-tree](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0098-validate-binary-search-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0207-course-schedule](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0207-course-schedule) |
+| [0386-lexicographical-numbers](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0386-lexicographical-numbers) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0662-maximum-width-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0684-redundant-connection) |
@@ -581,4 +582,8 @@
 |  |
 | ------- |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1986-largest-color-value-in-a-directed-graph) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
