@@ -192,6 +192,7 @@
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -290,6 +291,7 @@
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3637-count-number-of-balanced-permutations) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Stack
 |  |
 | ------- |
@@ -349,6 +351,7 @@
 | [2448-count-number-of-bad-pairs](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2448-count-number-of-bad-pairs) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3630-total-characters-in-string-after-transformations-ii) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Topological Sort
 |  |
 | ------- |
