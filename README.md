@@ -196,6 +196,7 @@
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Backtracking
 |  |
 | ------- |
@@ -295,6 +296,7 @@
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3637-count-number-of-balanced-permutations) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Stack
 |  |
 | ------- |
@@ -355,6 +357,7 @@
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Topological Sort
 |  |
 | ------- |
@@ -508,6 +511,7 @@
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3637-count-number-of-balanced-permutations) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Data Stream
 |  |
 | ------- |
