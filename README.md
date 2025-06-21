@@ -188,6 +188,7 @@
 | [2888-minimum-index-of-a-valid-split](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2915-count-of-interesting-subarrays](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2915-count-of-interesting-subarrays) |
 | [3227-find-missing-and-repeated-values](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3227-find-missing-and-repeated-values) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3548-find-the-count-of-good-integers](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3548-find-the-count-of-good-integers) |
@@ -289,6 +290,7 @@
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3194-find-words-containing-character](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3194-find-words-containing-character) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3447-clear-digits](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3447-clear-digits) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
@@ -354,6 +356,7 @@
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2448-count-number-of-bad-pairs](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2448-count-number-of-bad-pairs) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -384,6 +387,7 @@
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3321-type-of-triangle](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3321-type-of-triangle) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3430-count-days-without-meetings](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3430-count-days-without-meetings) |
 | [3647-zero-array-transformation-iii](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3647-zero-array-transformation-iii) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
@@ -533,6 +537,7 @@
 | [3001-apply-operations-to-maximize-score](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3001-apply-operations-to-maximize-score) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3647-zero-array-transformation-iii](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3647-zero-array-transformation-iii) |
 ## Monotonic Stack
