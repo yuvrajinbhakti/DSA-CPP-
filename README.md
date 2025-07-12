@@ -270,6 +270,7 @@
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [2262-solving-questions-with-brainpower](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2262-solving-questions-with-brainpower) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
@@ -654,6 +655,7 @@
 |  |
 | ------- |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 ## Trie
 |  |
