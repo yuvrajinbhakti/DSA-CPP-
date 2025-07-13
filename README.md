@@ -57,6 +57,7 @@
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2478-longest-nice-subarray](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2478-longest-nice-subarray) |
 | [2479-meeting-rooms-iii](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2479-meeting-rooms-iii) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2626-count-the-number-of-good-subarrays) |
@@ -409,6 +410,7 @@
 | [2215-finding-3-digit-even-numbers](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2215-finding-3-digit-even-numbers) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2479-meeting-rooms-iii](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2479-meeting-rooms-iii) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2681-put-marbles-in-bags](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2681-put-marbles-in-bags) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -500,6 +502,7 @@
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2320-find-all-k-distant-indices-in-an-array) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -574,6 +577,7 @@
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2456-construct-smallest-number-from-di-string) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2681-put-marbles-in-bags](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2681-put-marbles-in-bags) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
