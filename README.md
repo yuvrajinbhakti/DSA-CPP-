@@ -432,6 +432,7 @@
 | [0146-lru-cache](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0234-palindrome-linked-list) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Recursion
 |  |
 | ------- |
@@ -535,6 +536,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0013-roman-to-integer) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1477-product-of-the-last-k-numbers](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1477-product-of-the-last-k-numbers) |
 | [1500-count-largest-group](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1500-count-largest-group) |
