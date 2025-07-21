@@ -304,6 +304,7 @@
 | [1160-letter-tile-possibilities](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1160-letter-tile-possibilities) |
 | [1170-shortest-common-supersequence](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1250-longest-common-subsequence) |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
