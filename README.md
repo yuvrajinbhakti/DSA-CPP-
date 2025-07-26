@@ -99,6 +99,7 @@
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -258,6 +259,7 @@
 | [3639-zero-array-transformation-i](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3643-zero-array-transformation-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3647-zero-array-transformation-iii) |
+| [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -624,6 +626,7 @@
 | ------- |
 | [0493-reverse-pairs](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0493-reverse-pairs) |
 | [2280-count-good-triplets-in-an-array](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2280-count-good-triplets-in-an-array) |
+| [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Merge Sort
 |  |
 | ------- |
@@ -676,6 +679,7 @@
 | [3201-distribute-candies-among-children-ii](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3201-distribute-candies-among-children-ii) |
 | [3548-find-the-count-of-good-integers](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3548-find-the-count-of-good-integers) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
+| [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Memoization
 |  |
 | ------- |
