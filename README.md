@@ -65,6 +65,7 @@
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2529-range-product-queries-of-powers](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2529-range-product-queries-of-powers) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2626-count-the-number-of-good-subarrays) |
@@ -253,6 +254,7 @@
 | [2478-longest-nice-subarray](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2478-longest-nice-subarray) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2529-range-product-queries-of-powers](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2529-range-product-queries-of-powers) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -265,6 +267,7 @@
 | [2145-grid-game](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2145-grid-game) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2249-count-the-hidden-sequences](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2249-count-the-hidden-sequences) |
+| [2529-range-product-queries-of-powers](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2529-range-product-queries-of-powers) |
 | [2915-count-of-interesting-subarrays](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2915-count-of-interesting-subarrays) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3618-find-the-original-typed-string-ii) |
