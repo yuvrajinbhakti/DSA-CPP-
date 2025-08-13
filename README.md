@@ -476,6 +476,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0234-palindrome-linked-list) |
+| [0326-power-of-three](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0326-power-of-three) |
 | [2050-count-good-numbers](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2050-count-good-numbers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
@@ -579,6 +580,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0013-roman-to-integer) |
+| [0326-power-of-three](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0326-power-of-three) |
 | [0900-reordered-power-of-2](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0900-reordered-power-of-2) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1421-find-numbers-with-even-number-of-digits) |
