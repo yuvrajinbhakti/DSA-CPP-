@@ -290,6 +290,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0416-partition-equal-subset-sum) |
+| [0867-new-21-game](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0867-new-21-game) |
 | [0868-push-dominoes](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0868-push-dominoes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -582,6 +583,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0013-roman-to-integer) |
 | [0326-power-of-three](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0326-power-of-three) |
+| [0867-new-21-game](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0900-reordered-power-of-2) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -679,6 +681,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0867-new-21-game](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0867-new-21-game) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1813-maximum-erasure-value](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1813-maximum-erasure-value) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
@@ -728,4 +731,8 @@
 |  |
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0867-new-21-game](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0867-new-21-game) |
 <!---LeetCode Topics End-->
