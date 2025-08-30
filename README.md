@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0015-3sum) |
+| [0036-valid-sudoku](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0051-n-queens) |
@@ -167,6 +168,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0036-valid-sudoku) |
 | [0407-trapping-rain-water-ii](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0407-trapping-rain-water-ii) |
 | [0854-making-a-large-island](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0854-making-a-large-island) |
 | [0945-snakes-and-ladders](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0945-snakes-and-ladders) |
@@ -191,6 +193,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0013-roman-to-integer) |
+| [0036-valid-sudoku](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0036-valid-sudoku) |
 | [0141-linked-list-cycle](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0146-lru-cache) |
