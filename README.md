@@ -63,6 +63,7 @@
 | [2280-count-good-triplets-in-an-array](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2280-count-good-triplets-in-an-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2400-minimum-score-after-removals-on-a-tree) |
+| [2429-design-a-food-rating-system](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2429-design-a-food-rating-system) |
 | [2448-count-number-of-bad-pairs](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2478-longest-nice-subarray](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2478-longest-nice-subarray) |
@@ -160,6 +161,7 @@
 | [1917-maximum-average-pass-ratio](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1917-maximum-average-pass-ratio) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
+| [2429-design-a-food-rating-system](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2434-design-a-number-container-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2479-meeting-rooms-iii](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2479-meeting-rooms-iii) |
@@ -222,6 +224,7 @@
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2215-finding-3-digit-even-numbers) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2429-design-a-food-rating-system](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2434-design-a-number-container-system) |
 | [2448-count-number-of-bad-pairs](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -361,6 +364,7 @@
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+| [2429-design-a-food-rating-system](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2429-design-a-food-rating-system) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2887-sort-vowels-in-a-string](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2887-sort-vowels-in-a-string) |
@@ -596,12 +600,14 @@
 | [0146-lru-cache](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0146-lru-cache) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1477-product-of-the-last-k-numbers) |
+| [2429-design-a-food-rating-system](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2434-design-a-number-container-system) |
 ## Ordered Set
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0493-reverse-pairs) |
 | [2280-count-good-triplets-in-an-array](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2280-count-good-triplets-in-an-array) |
+| [2429-design-a-food-rating-system](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2434-design-a-number-container-system) |
 | [3790-fruits-into-baskets-ii](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3790-fruits-into-baskets-ii) |
 ## Math
