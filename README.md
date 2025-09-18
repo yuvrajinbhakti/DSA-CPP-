@@ -170,6 +170,7 @@
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3647-zero-array-transformation-iii](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3647-zero-array-transformation-iii) |
+| [3678-design-task-manager](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3678-design-task-manager) |
 ## Matrix
 |  |
 | ------- |
@@ -244,6 +245,7 @@
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3678-design-task-manager](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3678-design-task-manager) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -602,6 +604,7 @@
 | [1477-product-of-the-last-k-numbers](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1477-product-of-the-last-k-numbers) |
 | [2429-design-a-food-rating-system](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2434-design-a-number-container-system) |
+| [3678-design-task-manager](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3678-design-task-manager) |
 ## Ordered Set
 |  |
 | ------- |
@@ -609,6 +612,7 @@
 | [2280-count-good-triplets-in-an-array](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2280-count-good-triplets-in-an-array) |
 | [2429-design-a-food-rating-system](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2434-design-a-number-container-system) |
+| [3678-design-task-manager](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3678-design-task-manager) |
 | [3790-fruits-into-baskets-ii](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3790-fruits-into-baskets-ii) |
 ## Math
 |  |
