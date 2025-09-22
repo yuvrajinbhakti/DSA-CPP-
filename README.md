@@ -95,6 +95,7 @@
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3227-find-missing-and-repeated-values](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3227-find-missing-and-repeated-values) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3321-type-of-triangle](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3321-type-of-triangle) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
@@ -240,6 +241,7 @@
 | [2888-minimum-index-of-a-valid-split](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2915-count-of-interesting-subarrays](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2915-count-of-interesting-subarrays) |
 | [3227-find-missing-and-repeated-values](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3227-find-missing-and-repeated-values) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
@@ -453,6 +455,7 @@
 | [2140-longest-subsequence-repeated-k-times](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2448-count-number-of-bad-pairs](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2448-count-number-of-bad-pairs) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3630-total-characters-in-string-after-transformations-ii) |
