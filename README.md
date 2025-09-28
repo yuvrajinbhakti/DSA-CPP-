@@ -28,6 +28,7 @@
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0945-snakes-and-ladders](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0945-snakes-and-ladders) |
+| [1018-largest-perimeter-triangle](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1018-largest-perimeter-triangle) |
 | [1036-rotting-oranges](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1036-rotting-oranges) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1335-maximum-candies-allocated-to-k-children) |
@@ -482,6 +483,7 @@
 | [0242-valid-anagram](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0242-valid-anagram) |
 | [0611-valid-triangle-number](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0611-valid-triangle-number) |
 | [0900-reordered-power-of-2](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0900-reordered-power-of-2) |
+| [1018-largest-perimeter-triangle](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1018-largest-perimeter-triangle) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2215-finding-3-digit-even-numbers) |
@@ -636,6 +638,7 @@
 | [0679-24-game](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0679-24-game) |
 | [0867-new-21-game](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0900-reordered-power-of-2) |
+| [1018-largest-perimeter-triangle](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1018-largest-perimeter-triangle) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1477-product-of-the-last-k-numbers](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1477-product-of-the-last-k-numbers) |
@@ -676,6 +679,7 @@
 | ------- |
 | [0611-valid-triangle-number](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0611-valid-triangle-number) |
 | [0768-partition-labels](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0768-partition-labels) |
+| [1018-largest-perimeter-triangle](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1018-largest-perimeter-triangle) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1834-minimum-number-of-people-to-teach) |
