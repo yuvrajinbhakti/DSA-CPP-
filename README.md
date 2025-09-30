@@ -66,6 +66,7 @@
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2280-count-good-triplets-in-an-array](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2280-count-good-triplets-in-an-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2320-find-all-k-distant-indices-in-an-array) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2429-design-a-food-rating-system](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2429-design-a-food-rating-system) |
 | [2448-count-number-of-bad-pairs](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2448-count-number-of-bad-pairs) |
@@ -605,6 +606,7 @@
 | [2048-build-array-from-permutation](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2048-build-array-from-permutation) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2479-meeting-rooms-iii](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2479-meeting-rooms-iii) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
@@ -648,6 +650,7 @@
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2050-count-good-numbers](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2050-count-good-numbers) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2448-count-number-of-bad-pairs](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2448-count-number-of-bad-pairs) |
 | [2610-closest-prime-numbers-in-range](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2610-closest-prime-numbers-in-range) |
@@ -764,6 +767,7 @@
 ## Combinatorics
 |  |
 | ------- |
+| [2324-find-triangular-sum-of-an-array](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3201-distribute-candies-among-children-ii](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3201-distribute-candies-among-children-ii) |
 | [3548-find-the-count-of-good-integers](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3548-find-the-count-of-good-integers) |
