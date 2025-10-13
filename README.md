@@ -35,6 +35,7 @@
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1364-tuple-with-same-product](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1396-count-servers-that-communicate) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -229,6 +230,7 @@
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1160-letter-tile-possibilities) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1364-tuple-with-same-product](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1364-tuple-with-same-product) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -381,6 +383,7 @@
 | [1170-shortest-common-supersequence](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1250-longest-common-subsequence) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1302-delete-characters-to-make-fancy-string) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -506,6 +509,7 @@
 | [0611-valid-triangle-number](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0611-valid-triangle-number) |
 | [0900-reordered-power-of-2](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0900-reordered-power-of-2) |
 | [1018-largest-perimeter-triangle](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1018-largest-perimeter-triangle) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2215-finding-3-digit-even-numbers) |
