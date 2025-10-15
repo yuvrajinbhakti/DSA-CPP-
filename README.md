@@ -114,6 +114,7 @@
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
+| [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3639-zero-array-transformation-i](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3643-zero-array-transformation-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3647-zero-array-transformation-iii) |
@@ -589,6 +590,7 @@
 | [2699-count-the-number-of-fair-pairs](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3643-zero-array-transformation-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3790-fruits-into-baskets-ii) |
 ## Binary Tree
