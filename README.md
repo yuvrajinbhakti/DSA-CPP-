@@ -117,6 +117,7 @@
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
+| [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3639-zero-array-transformation-i](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3643-zero-array-transformation-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3647-zero-array-transformation-iii) |
@@ -321,6 +322,7 @@
 | [2915-count-of-interesting-subarrays](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2915-count-of-interesting-subarrays) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3618-find-the-original-typed-string-ii) |
+| [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3639-zero-array-transformation-i](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3643-zero-array-transformation-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3647-zero-array-transformation-iii) |
@@ -537,6 +539,7 @@
 | [3430-count-days-without-meetings](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3430-count-days-without-meetings) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
+| [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3647-zero-array-transformation-iii](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3647-zero-array-transformation-iii) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3748-sort-matrix-by-diagonals](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3748-sort-matrix-by-diagonals) |
@@ -598,6 +601,7 @@
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
+| [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3643-zero-array-transformation-ii](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3643-zero-array-transformation-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3790-fruits-into-baskets-ii) |
 ## Binary Tree
@@ -804,6 +808,7 @@
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Queue
 |  |
