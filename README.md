@@ -62,6 +62,7 @@
 | [2215-finding-3-digit-even-numbers](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2215-finding-3-digit-even-numbers) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2249-count-the-hidden-sequences](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2249-count-the-hidden-sequences) |
 | [2262-solving-questions-with-brainpower](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2262-solving-questions-with-brainpower) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -207,6 +208,7 @@
 | [1628-count-submatrices-with-all-ones](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1628-count-submatrices-with-all-ones) |
 | [1876-map-of-highest-peak](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1876-map-of-highest-peak) |
 | [2145-grid-game](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2145-grid-game) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2685-first-completely-painted-row-or-column](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2685-first-completely-painted-row-or-column) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -401,6 +403,7 @@
 | [2107-find-unique-binary-string](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2107-find-unique-binary-string) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
@@ -697,6 +700,7 @@
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1642-water-bottles](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1642-water-bottles) |
 | [2050-count-good-numbers](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2050-count-good-numbers) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2448-count-number-of-bad-pairs](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2448-count-number-of-bad-pairs) |
