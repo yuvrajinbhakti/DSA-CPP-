@@ -71,6 +71,7 @@
 | [2280-count-good-triplets-in-an-array](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2280-count-good-triplets-in-an-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2429-design-a-food-rating-system](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2429-design-a-food-rating-system) |
 | [2448-count-number-of-bad-pairs](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2448-count-number-of-bad-pairs) |
@@ -209,6 +210,7 @@
 | [1876-map-of-highest-peak](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1876-map-of-highest-peak) |
 | [2145-grid-game](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2145-grid-game) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2685-first-completely-painted-row-or-column](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2685-first-completely-painted-row-or-column) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -653,6 +655,7 @@
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2479-meeting-rooms-iii](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2479-meeting-rooms-iii) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
