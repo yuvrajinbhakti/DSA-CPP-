@@ -45,6 +45,7 @@
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1628-count-submatrices-with-all-ones](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1628-count-submatrices-with-all-ones) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1813-maximum-erasure-value](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1813-maximum-erasure-value) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1834-minimum-number-of-people-to-teach) |
@@ -357,6 +358,7 @@
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1628-count-submatrices-with-all-ones](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1628-count-submatrices-with-all-ones) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2061-painting-a-grid-with-three-different-colors) |
@@ -399,6 +401,7 @@
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -744,6 +747,7 @@
 | [0768-partition-labels](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0768-partition-labels) |
 | [1018-largest-perimeter-triangle](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1018-largest-perimeter-triangle) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1917-maximum-average-pass-ratio) |
