@@ -129,6 +129,7 @@
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
+| [3623-count-number-of-trapezoids-i](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3623-count-number-of-trapezoids-i) |
 | [3639-zero-array-transformation-i](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3643-zero-array-transformation-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3647-zero-array-transformation-iii) |
@@ -289,6 +290,7 @@
 | [3548-find-the-count-of-good-integers](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3548-find-the-count-of-good-integers) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [3623-count-number-of-trapezoids-i](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3623-count-number-of-trapezoids-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
@@ -750,6 +752,7 @@
 | [3548-find-the-count-of-good-integers](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3548-find-the-count-of-good-integers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
+| [3623-count-number-of-trapezoids-i](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3623-count-number-of-trapezoids-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3637-count-number-of-balanced-permutations) |
@@ -909,4 +912,8 @@
 | ------- |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
+## Geometry
+|  |
+| ------- |
+| [3623-count-number-of-trapezoids-i](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3623-count-number-of-trapezoids-i) |
 <!---LeetCode Topics End-->
