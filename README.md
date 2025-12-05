@@ -118,6 +118,7 @@
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3429-special-array-i](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3429-special-array-i) |
 | [3430-count-days-without-meetings](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3430-count-days-without-meetings) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
@@ -344,6 +345,7 @@
 | [2529-range-product-queries-of-powers](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2529-range-product-queries-of-powers) |
 | [2915-count-of-interesting-subarrays](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2915-count-of-interesting-subarrays) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3618-find-the-original-typed-string-ii) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
@@ -747,6 +749,7 @@
 | [3243-count-the-number-of-powerful-integers](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3321-type-of-triangle](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3321-type-of-triangle) |
 | [3336-water-bottles-ii](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3336-water-bottles-ii) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3462-vowels-game-in-a-string](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3462-vowels-game-in-a-string) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3548-find-the-count-of-good-integers](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3548-find-the-count-of-good-integers) |
