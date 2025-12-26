@@ -352,6 +352,7 @@
 | [2145-grid-game](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2145-grid-game) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2249-count-the-hidden-sequences](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2249-count-the-hidden-sequences) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2529-range-product-queries-of-powers](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2529-range-product-queries-of-powers) |
 | [2915-count-of-interesting-subarrays](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2915-count-of-interesting-subarrays) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
@@ -456,6 +457,7 @@
 | [2429-design-a-food-rating-system](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2429-design-a-food-rating-system) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2887-sort-vowels-in-a-string](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2887-sort-vowels-in-a-string) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
