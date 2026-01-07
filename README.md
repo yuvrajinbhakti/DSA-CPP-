@@ -60,6 +60,7 @@
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1917-maximum-average-pass-ratio](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1917-maximum-average-pass-ratio) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1927-maximum-ascending-subarray-sum) |
+| [1929-concatenation-of-array](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1929-concatenation-of-array) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1975-maximum-matrix-sum) |
 | [2023-design-movie-rental-system](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2023-design-movie-rental-system) |
@@ -725,6 +726,7 @@
 |  |
 | ------- |
 | [1642-water-bottles](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1642-water-bottles) |
+| [1929-concatenation-of-array](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1929-concatenation-of-array) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2048-build-array-from-permutation](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2048-build-array-from-permutation) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2260-divide-a-string-into-groups-of-size-k) |
