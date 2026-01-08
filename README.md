@@ -44,6 +44,7 @@
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1364-tuple-with-same-product](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1364-tuple-with-same-product) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1390-four-divisors](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1390-four-divisors) |
 | [1396-count-servers-that-communicate](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1396-count-servers-that-communicate) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -277,6 +278,7 @@
 | [1227-number-of-equivalent-domino-pairs](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1364-tuple-with-same-product](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1364-tuple-with-same-product) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1500-count-largest-group](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1500-count-largest-group) |
@@ -595,6 +597,7 @@
 | [0900-reordered-power-of-2](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0900-reordered-power-of-2) |
 | [1018-largest-perimeter-triangle](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1018-largest-perimeter-triangle) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2054-two-best-non-overlapping-events](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2054-two-best-non-overlapping-events) |
 | [2092-find-all-people-with-secret](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2092-find-all-people-with-secret) |
@@ -978,4 +981,8 @@
 |  |
 | ------- |
 | [3623-count-number-of-trapezoids-i](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3623-count-number-of-trapezoids-i) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
