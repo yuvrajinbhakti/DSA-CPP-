@@ -24,6 +24,7 @@
 | [0493-reverse-pairs](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0496-next-greater-element-i) |
 | [0611-valid-triangle-number](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0611-valid-triangle-number) |
+| [0645-set-mismatch](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0645-set-mismatch) |
 | [0679-24-game](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0679-24-game) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0794-swim-in-rising-water](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0794-swim-in-rising-water) |
@@ -265,6 +266,7 @@
 | [0146-lru-cache](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0146-lru-cache) |
 | [0242-valid-anagram](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0242-valid-anagram) |
 | [0496-next-greater-element-i](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0496-next-greater-element-i) |
+| [0645-set-mismatch](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0645-set-mismatch) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0768-partition-labels](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0768-partition-labels) |
 | [0900-reordered-power-of-2](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0900-reordered-power-of-2) |
@@ -341,6 +343,7 @@
 | ------- |
 | [0090-subsets-ii](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0090-subsets-ii) |
 | [0287-find-the-duplicate-number](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0287-find-the-duplicate-number) |
+| [0645-set-mismatch](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0645-set-mismatch) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2400-minimum-score-after-removals-on-a-tree) |
@@ -588,6 +591,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0242-valid-anagram) |
 | [0611-valid-triangle-number](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0611-valid-triangle-number) |
+| [0645-set-mismatch](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0645-set-mismatch) |
 | [0900-reordered-power-of-2](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0900-reordered-power-of-2) |
 | [1018-largest-perimeter-triangle](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1018-largest-perimeter-triangle) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1353-find-resultant-array-after-removing-anagrams) |
