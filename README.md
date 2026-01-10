@@ -15,6 +15,7 @@
 | [0075-sort-colors](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0075-sort-colors) |
 | [0090-subsets-ii](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0215-kth-largest-element-in-an-array](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0287-find-the-duplicate-number](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0287-find-the-duplicate-number) |
 | [0407-trapping-rain-water-ii](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0407-trapping-rain-water-ii) |
@@ -506,6 +507,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0020-valid-parentheses) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0234-palindrome-linked-list](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0496-next-greater-element-i) |
 | [1441-build-an-array-with-stack-operations](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1441-build-an-array-with-stack-operations) |
@@ -787,6 +789,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0066-plus-one) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0326-power-of-three](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0326-power-of-three) |
 | [0679-24-game](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0679-24-game) |
 | [0867-new-21-game](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0867-new-21-game) |
