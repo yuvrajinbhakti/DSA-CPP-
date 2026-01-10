@@ -60,3 +60,10 @@ public:
         return minHeap.top();
     }
 };
+
+
+// | Approach                 | Time             | Space      |
+// | ------------------------ | ---------------- | ---------- |
+// | Max Heap (your original) | `O(n + k log n)` | `O(n)`     |
+// | **Min Heap (optimized)** | **`O(n log k)`** | **`O(k)`** |
+// | Quickselect              | `O(n)` avg       | `O(1)`     |
