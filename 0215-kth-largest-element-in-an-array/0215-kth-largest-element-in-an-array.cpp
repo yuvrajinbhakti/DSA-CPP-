@@ -1,4 +1,4 @@
-//T.C. = o(n log n)
+
 // class Solution {
 // public:
 //     int findKthLargest(vector<int>& nums, int k) {
@@ -23,16 +23,40 @@
 //     }
 // };
 
+
+//Time: O(n + k log n)
+// Space: O(n)
+// class Solution {
+// public:
+//     int findKthLargest(vector<int>& nums, int k) {
+//         priority_queue<int> pq(nums.begin(),nums.end());
+     
+        
+//         while(k>1){
+//             pq.pop();
+//             k=k-1;
+//         }
+//         return pq.top();
+//     }
+// };
+
+
 class Solution {
 public:
     int findKthLargest(vector<int>& nums, int k) {
-        priority_queue<int> pq(nums.begin(),nums.end());
-     
-        
-        while(k>1){
-            pq.pop();
-            k=k-1;
+          // Min-heap to keep only k largest elements
+        priority_queue<int, vector<int>, greater<int>> minHeap;
+
+        for (int num : nums) {
+            minHeap.push(num);
+
+            // Keep heap size at most k
+            if (minHeap.size() > k) {
+                minHeap.pop();  // remove smallest among the k+1 elements
+            }
         }
-        return pq.top();
+
+        // Top of min-heap is the kth largest element
+        return minHeap.top();
     }
 };
