@@ -16,23 +16,45 @@
 //     }
 // };
 
+// class Solution {
+// public:
+//     vector<int> productExceptSelf(vector<int>& nums) {
+//       int preProd=1,suffProd=1,n=nums.size();
+//       vector<int> prefixProd(n,1),suffixProd(n,1);
+//       for(int i=1;i<n;i++){
+//          preProd=preProd*nums[i-1];
+//         prefixProd[i]=preProd;
+//       }
+//       for(int i=n-2;i>=0;i--){
+//         suffProd = suffProd*nums[i+1];
+//         suffixProd[i]=suffProd;
+//       }
+//       vector<int> ans(n); 
+//       for(int i=0;i<n;i++){
+//         ans[i]=prefixProd[i]*suffixProd[i];
+//       }
+//       return ans;
+//     }
+// };
+
 class Solution {
 public:
     vector<int> productExceptSelf(vector<int>& nums) {
-      int preProd=1,suffProd=1,n=nums.size();
-      vector<int> prefixProd(n,1),suffixProd(n,1);
-      for(int i=1;i<n;i++){
-         preProd=preProd*nums[i-1];
-        prefixProd[i]=preProd;
-      }
-      for(int i=n-2;i>=0;i--){
-        suffProd = suffProd*nums[i+1];
-        suffixProd[i]=suffProd;
-      }
-      vector<int> ans(n); 
-      for(int i=0;i<n;i++){
-        ans[i]=prefixProd[i]*suffixProd[i];
-      }
-      return ans;
+        int n = nums.size();
+        vector<int> ans(n, 1);
+
+        // Step 1: Store prefix products in ans[]
+        for (int i = 1; i < n; i++) {
+            ans[i] = ans[i - 1] * nums[i - 1];
+        }
+
+        // Step 2: Multiply with suffix products
+        int suffix = 1;
+        for (int i = n - 1; i >= 0; i--) {
+            ans[i] *= suffix;
+            suffix *= nums[i];
+        }
+
+        return ans;
     }
 };
