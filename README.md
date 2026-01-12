@@ -19,6 +19,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0215-kth-largest-element-in-an-array](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0287-find-the-duplicate-number) |
 | [0407-trapping-rain-water-ii](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0407-trapping-rain-water-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0416-partition-equal-subset-sum) |
@@ -373,6 +374,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0238-product-of-array-except-self) |
 | [1477-product-of-the-last-k-numbers](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2059-unique-length-3-palindromic-subsequences) |
