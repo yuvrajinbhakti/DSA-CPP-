@@ -58,3 +58,13 @@ public:
         return ans;
     }
 };
+
+
+/*
+Prefix pass:
+ans[i] = product of all elements before i
+
+Suffix pass:
+suffix = product of all elements after i
+ans[i] = prefix * suffix
+*/
