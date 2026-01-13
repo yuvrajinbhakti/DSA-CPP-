@@ -18,6 +18,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0152-maximum-product-subarray) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0238-product-of-array-except-self) |
@@ -691,6 +692,7 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0098-validate-binary-search-tree) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0287-find-the-duplicate-number) |
 | [0493-reverse-pairs](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0493-reverse-pairs) |
 | [0611-valid-triangle-number](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0611-valid-triangle-number) |
