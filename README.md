@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0015-3sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0036-valid-sudoku](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0040-combination-sum-ii) |
@@ -691,6 +692,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0098-validate-binary-search-tree](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0098-validate-binary-search-tree) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0287-find-the-duplicate-number) |
