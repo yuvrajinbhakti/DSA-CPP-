@@ -141,6 +141,7 @@
 | [3432-count-partitions-with-even-sum-difference](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3453-separate-squares-i](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3453-separate-squares-i) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
@@ -709,6 +710,7 @@
 | [2699-count-the-number-of-fair-pairs](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3453-separate-squares-i](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3453-separate-squares-i) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3643-zero-array-transformation-ii](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3643-zero-array-transformation-ii) |
