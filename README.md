@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0036-valid-sudoku](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0036-valid-sudoku) |
@@ -739,6 +740,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0015-3sum) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0075-sort-colors) |
@@ -867,6 +869,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0011-container-with-most-water) |
 | [0611-valid-triangle-number](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0611-valid-triangle-number) |
 | [0768-partition-labels](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0768-partition-labels) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0955-delete-columns-to-make-sorted-ii) |
