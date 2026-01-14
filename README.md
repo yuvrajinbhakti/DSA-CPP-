@@ -363,6 +363,7 @@
 | ------- |
 | [0090-subsets-ii](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0090-subsets-ii) |
 | [0287-find-the-duplicate-number](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0287-find-the-duplicate-number) |
+| [0371-sum-of-two-integers](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0371-sum-of-two-integers) |
 | [0645-set-mismatch](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0645-set-mismatch) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -811,6 +812,7 @@
 | [0066-plus-one](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0326-power-of-three](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0326-power-of-three) |
+| [0371-sum-of-two-integers](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0371-sum-of-two-integers) |
 | [0679-24-game](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0679-24-game) |
 | [0867-new-21-game](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0900-reordered-power-of-2) |
