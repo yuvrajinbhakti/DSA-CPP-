@@ -1,6 +1,18 @@
+// class Solution {
+// public:
+//     int getSum(int a, int b) {
+//         return a+b;
+//     }
+// };
+
 class Solution {
 public:
     int getSum(int a, int b) {
-        return a+b;
+        while (b != 0) {
+            int carry = (a & b) << 1;  // carry
+            a = a ^ b;                // sum without carry
+            b = carry;
+        }
+        return a;
     }
 };
