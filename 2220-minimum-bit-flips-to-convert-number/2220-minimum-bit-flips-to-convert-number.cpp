@@ -44,6 +44,11 @@ public:
             count += xorResult & 1;  // Increment if the last bit is 1
             xorResult >>= 1;         // Shift right to process the next bit
         }
+        // while (xorResult) {
+        //     count++;
+        //     xorResult &= (xorResult - 1);
+        // }
+
         return count;
     }
 };
