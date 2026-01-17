@@ -24,6 +24,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0287-find-the-duplicate-number) |
 | [0407-trapping-rain-water-ii](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0407-trapping-rain-water-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0416-partition-equal-subset-sum) |
@@ -283,6 +284,7 @@
 | [0146-lru-cache](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0146-lru-cache) |
 | [0217-contains-duplicate](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0496-next-greater-element-i) |
 | [0645-set-mismatch](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0645-set-mismatch) |
@@ -364,6 +366,7 @@
 | ------- |
 | [0090-subsets-ii](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0090-subsets-ii) |
 | [0191-number-of-1-bits](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0191-number-of-1-bits) |
+| [0268-missing-number](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0371-sum-of-two-integers) |
@@ -626,6 +629,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0268-missing-number) |
 | [0611-valid-triangle-number](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0611-valid-triangle-number) |
 | [0645-set-mismatch](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0645-set-mismatch) |
 | [0900-reordered-power-of-2](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0900-reordered-power-of-2) |
@@ -703,6 +707,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0098-validate-binary-search-tree](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0098-validate-binary-search-tree) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0268-missing-number](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0287-find-the-duplicate-number) |
 | [0493-reverse-pairs](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0493-reverse-pairs) |
 | [0611-valid-triangle-number](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0611-valid-triangle-number) |
@@ -817,6 +822,7 @@
 | [0013-roman-to-integer](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0268-missing-number](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0326-power-of-three) |
 | [0371-sum-of-two-integers](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0371-sum-of-two-integers) |
 | [0679-24-game](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0679-24-game) |
