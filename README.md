@@ -365,6 +365,7 @@
 | [0090-subsets-ii](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0090-subsets-ii) |
 | [0191-number-of-1-bits](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0191-number-of-1-bits) |
 | [0287-find-the-duplicate-number](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0287-find-the-duplicate-number) |
+| [0338-counting-bits](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0371-sum-of-two-integers) |
 | [0645-set-mismatch](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0645-set-mismatch) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -421,6 +422,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0152-maximum-product-subarray) |
+| [0338-counting-bits](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0338-counting-bits) |
 | [0416-partition-equal-subset-sum](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0416-partition-equal-subset-sum) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0867-new-21-game](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0867-new-21-game) |
