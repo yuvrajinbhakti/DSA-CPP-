@@ -37,17 +37,16 @@ public:
         pptr->next = NULL;
     }
 };
-
-
 */
 
 class Solution {
 public:
-    ListNode* reverseLinkedList(ListNode* list){
-        ListNode* curr = list;
-        ListNode* prev = NULL;
+    // Reverse a linked list and return new head
+    ListNode* reverseLinkedList(ListNode* head) {
+        ListNode* prev = nullptr;
+        ListNode* curr = head;
 
-        while(curr){
+        while (curr) {
             ListNode* nextNode = curr->next;
             curr->next = prev;
             prev = curr;
@@ -57,30 +56,33 @@ public:
     }
 
     void reorderList(ListNode* head) {
-        if(!head || !head->next) return;
+        if (!head || !head->next) return;
 
-        //finding mid
-        ListNode *slow = head, *fast = head;
-        while(fast && fast->next){
+        // 1. Find middle of the list
+        ListNode* slow = head;
+        ListNode* fast = head;
+
+        while (fast && fast->next) {
             slow = slow->next;
             fast = fast->next->next;
         }
 
-        //reverse second half
-        ListNode* second = reverseLinkedList(slow->next);
-        slow->next = NULL;
+        // 2. Reverse second half
+        ListNode* secondHalf = reverseLinkedList(slow->next);
+        slow->next = nullptr;
 
-        //merge alternatively
-        ListNode* first = head;
-        while(second){
-            ListNode* t1 = first->next;
-            ListNode* t2 = second->next;
+        // 3. Merge both halves alternately
+        ListNode* firstHalf = head;
 
-            first->next = second;
-            second->next = t1;
+        while (secondHalf) {
+            ListNode* nextFirst = firstHalf->next;
+            ListNode* nextSecond = secondHalf->next;
 
-            first = t1;
-            second = t2;
+            firstHalf->next = secondHalf;
+            secondHalf->next = nextFirst;
+
+            firstHalf = nextFirst;
+            secondHalf = nextSecond;
         }
     }
 };
