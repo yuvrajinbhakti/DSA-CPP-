@@ -78,6 +78,7 @@
 | [1929-concatenation-of-array](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1929-concatenation-of-array) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1975-maximum-matrix-sum) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2023-design-movie-rental-system](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2023-design-movie-rental-system) |
 | [2048-build-array-from-permutation](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2048-build-array-from-permutation) |
 | [2054-two-best-non-overlapping-events](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2054-two-best-non-overlapping-events) |
@@ -645,6 +646,7 @@
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2054-two-best-non-overlapping-events](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2054-two-best-non-overlapping-events) |
 | [2092-find-all-people-with-secret](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2092-find-all-people-with-secret) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2141-maximum-running-time-of-n-computers) |
@@ -979,6 +981,7 @@
 | [0867-new-21-game](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0867-new-21-game) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1813-maximum-erasure-value](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1813-maximum-erasure-value) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2478-longest-nice-subarray](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2478-longest-nice-subarray) |
