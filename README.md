@@ -15,6 +15,7 @@
 | [0053-maximum-subarray](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0075-sort-colors) |
 | [0090-subsets-ii](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -251,6 +252,7 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0036-valid-sudoku) |
+| [0073-set-matrix-zeroes](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0073-set-matrix-zeroes) |
 | [0407-trapping-rain-water-ii](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0417-pacific-atlantic-water-flow) |
 | [0794-swim-in-rising-water](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0794-swim-in-rising-water) |
@@ -285,6 +287,7 @@
 | [0001-two-sum](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0036-valid-sudoku) |
+| [0073-set-matrix-zeroes](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0146-lru-cache) |
