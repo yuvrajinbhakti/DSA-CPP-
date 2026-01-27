@@ -19,6 +19,7 @@
 | [0066-plus-one](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -257,6 +258,7 @@
 | [0048-rotate-image](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0079-word-search) |
 | [0407-trapping-rain-water-ii](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0417-pacific-atlantic-water-flow) |
 | [0794-swim-in-rising-water](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0794-swim-in-rising-water) |
@@ -366,6 +368,7 @@
 | [0039-combination-sum](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0051-n-queens) |
+| [0079-word-search](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0090-subsets-ii) |
 | [0679-24-game](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0679-24-game) |
 | [1160-letter-tile-possibilities](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1160-letter-tile-possibilities) |
@@ -489,6 +492,7 @@
 | [0020-valid-parentheses](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0038-count-and-say) |
+| [0079-word-search](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0079-word-search) |
 | [0151-reverse-words-in-a-string](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0165-compare-version-numbers) |
 | [0242-valid-anagram](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0242-valid-anagram) |
@@ -566,6 +570,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0098-validate-binary-search-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0207-course-schedule](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0207-course-schedule) |
