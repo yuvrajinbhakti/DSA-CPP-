@@ -11,6 +11,7 @@
 | [0036-valid-sudoku](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0040-combination-sum-ii) |
+| [0048-rotate-image](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0054-spiral-matrix) |
@@ -253,6 +254,7 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0073-set-matrix-zeroes) |
 | [0407-trapping-rain-water-ii](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0407-trapping-rain-water-ii) |
@@ -849,6 +851,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0268-missing-number](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0268-missing-number) |
