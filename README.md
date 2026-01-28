@@ -1088,4 +1088,8 @@
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Graph Theory
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
