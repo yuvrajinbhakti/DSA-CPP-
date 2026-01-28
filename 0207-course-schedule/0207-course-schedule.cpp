@@ -7,22 +7,22 @@ public:
             adj[prerequisite[1]].push_back(prerequisite[0]);
             indegree[prerequisite[0]]++;
         }
-queue<int> q;
-//push all nodes with zero indegree in queue
-for(int i=0;i<numCourses;i++){
-    if(indegree[i]==0)q.push(i);
-}
-int nodesVisited=0;
-while(!q.empty()){
-    int node=q.front();
-    q.pop();
-    nodesVisited++;
-    for(auto &neighbour:adj[node]){
-        //delete the edge " node->neighbour"
-        indegree[neighbour]--;
-        if(indegree[neighbour]==0)q.push(neighbour);
-    }
-}
-return nodesVisited==numCourses;
+
+        queue<int> q;
+        for(int i=0;i<numCourses;i++){
+            if(indegree[i]==0) q.push(i);
+        }
+
+        int nodesVisited=0;
+        while(!q.empty()){
+            int node=q.front();
+            q.pop();
+            nodesVisited++;
+            for(auto& neighbor: adj[node]){
+                indegree[neighbor]--;
+                if(indegree[neighbor]==0)q.push(neighbor);
+            }
+        }
+        return nodesVisited == numCourses;
     }
 };
