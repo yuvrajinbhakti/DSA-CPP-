@@ -171,6 +171,7 @@
 | [3643-zero-array-transformation-ii](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3643-zero-array-transformation-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3647-zero-array-transformation-iii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
+| [3651-minimum-cost-path-with-teleportations](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
@@ -283,6 +284,7 @@
 | [3227-find-missing-and-repeated-values](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3227-find-missing-and-repeated-values) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
+| [3651-minimum-cost-path-with-teleportations](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3748-sort-matrix-by-diagonals](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3748-sort-matrix-by-diagonals) |
 ## Shortest Path
 |  |
@@ -485,6 +487,7 @@
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3637-count-number-of-balanced-permutations) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
+| [3651-minimum-cost-path-with-teleportations](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## String
 |  |
