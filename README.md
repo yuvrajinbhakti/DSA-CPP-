@@ -25,6 +25,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0200-number-of-islands](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0238-product-of-array-except-self) |
@@ -187,6 +188,7 @@
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0200-number-of-islands](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0207-course-schedule) |
 | [0407-trapping-rain-water-ii](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0417-pacific-atlantic-water-flow) |
@@ -261,6 +263,7 @@
 | [0054-spiral-matrix](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0079-word-search) |
+| [0200-number-of-islands](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0200-number-of-islands) |
 | [0407-trapping-rain-water-ii](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0417-pacific-atlantic-water-flow) |
 | [0794-swim-in-rising-water](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0794-swim-in-rising-water) |
@@ -578,6 +581,7 @@
 | [0098-validate-binary-search-tree](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0200-number-of-islands](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0207-course-schedule) |
 | [0386-lexicographical-numbers](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0386-lexicographical-numbers) |
 | [0417-pacific-atlantic-water-flow](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0417-pacific-atlantic-water-flow) |
@@ -1092,4 +1096,8 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0207-course-schedule) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
