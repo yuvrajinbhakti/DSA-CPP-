@@ -31,6 +31,7 @@
 | [0238-product-of-array-except-self](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0287-find-the-duplicate-number) |
+| [0300-longest-increasing-subsequence](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0300-longest-increasing-subsequence) |
 | [0407-trapping-rain-water-ii](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0407-trapping-rain-water-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0417-pacific-atlantic-water-flow) |
@@ -452,6 +453,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0152-maximum-product-subarray) |
+| [0300-longest-increasing-subsequence](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0300-longest-increasing-subsequence) |
 | [0338-counting-bits](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0338-counting-bits) |
 | [0416-partition-equal-subset-sum](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0416-partition-equal-subset-sum) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
@@ -752,6 +754,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0287-find-the-duplicate-number) |
+| [0300-longest-increasing-subsequence](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0300-longest-increasing-subsequence) |
 | [0493-reverse-pairs](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0493-reverse-pairs) |
 | [0611-valid-triangle-number](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0611-valid-triangle-number) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0653-two-sum-iv-input-is-a-bst) |
