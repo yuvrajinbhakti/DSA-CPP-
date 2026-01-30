@@ -195,6 +195,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0662-maximum-width-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0684-redundant-connection) |
+| [0785-is-graph-bipartite](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0785-is-graph-bipartite) |
 | [0794-swim-in-rising-water](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0794-swim-in-rising-water) |
 | [0820-find-eventual-safe-states](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0854-making-a-large-island) |
@@ -588,6 +589,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0662-maximum-width-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0684-redundant-connection) |
+| [0785-is-graph-bipartite](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0785-is-graph-bipartite) |
 | [0794-swim-in-rising-water](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0794-swim-in-rising-water) |
 | [0820-find-eventual-safe-states](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0854-making-a-large-island) |
@@ -1096,8 +1098,10 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0207-course-schedule) |
+| [0785-is-graph-bipartite](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0785-is-graph-bipartite) |
 ## Union-Find
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0200-number-of-islands) |
+| [0785-is-graph-bipartite](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
