@@ -170,6 +170,7 @@
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3623-count-number-of-trapezoids-i](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3623-count-number-of-trapezoids-i) |
+| [3634-minimum-removals-to-balance-array](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3634-minimum-removals-to-balance-array) |
 | [3637-trionic-array-i](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3637-trionic-array-i) |
 | [3639-zero-array-transformation-i](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3639-zero-array-transformation-i) |
 | [3640-trionic-array-ii](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3640-trionic-array-ii) |
@@ -704,6 +705,7 @@
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
+| [3634-minimum-removals-to-balance-array](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3634-minimum-removals-to-balance-array) |
 | [3647-zero-array-transformation-iii](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3647-zero-array-transformation-iii) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3748-sort-matrix-by-diagonals](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3748-sort-matrix-by-diagonals) |
@@ -1036,6 +1038,7 @@
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
+| [3634-minimum-removals-to-balance-array](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3634-minimum-removals-to-balance-array) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Queue
