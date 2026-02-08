@@ -593,6 +593,7 @@
 | [0079-word-search](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0110-balanced-binary-tree](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0200-number-of-islands](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0207-course-schedule) |
@@ -742,6 +743,7 @@
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0110-balanced-binary-tree](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0662-maximum-width-of-binary-tree) |
@@ -796,6 +798,7 @@
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0110-balanced-binary-tree](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0662-maximum-width-of-binary-tree) |
