@@ -451,6 +451,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0493-reverse-pairs](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0493-reverse-pairs) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [1382-balance-a-binary-search-tree](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1382-balance-a-binary-search-tree) |
 | [2280-count-good-triplets-in-an-array](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2280-count-good-triplets-in-an-array) |
 ## Dynamic Programming
 |  |
@@ -610,6 +611,7 @@
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1382-balance-a-binary-search-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1396-count-servers-that-communicate) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1475-maximum-sum-bst-in-binary-tree) |
@@ -753,6 +755,7 @@
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1382-balance-a-binary-search-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2400-minimum-score-after-removals-on-a-tree) |
@@ -775,6 +778,7 @@
 | [0794-swim-in-rising-water](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0794-swim-in-rising-water) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1382-balance-a-binary-search-tree](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1382-balance-a-binary-search-tree) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1970-last-day-where-you-can-still-cross) |
@@ -808,6 +812,7 @@
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1382-balance-a-binary-search-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 ## Two Pointers
@@ -956,6 +961,7 @@
 | [0768-partition-labels](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0768-partition-labels) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1018-largest-perimeter-triangle](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1018-largest-perimeter-triangle) |
+| [1382-balance-a-binary-search-tree](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1382-balance-a-binary-search-tree) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1818-maximum-score-from-removing-substrings) |
