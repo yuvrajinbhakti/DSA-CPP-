@@ -1,33 +1,33 @@
+/**
+ * Definition for a binary tree node.
+ * struct TreeNode {
+ *     int val;
+ *     TreeNode *left;
+ *     TreeNode *right;
+ *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
+ *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
+ *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
+ * };
+ */
 class Solution {
 public:
-    void inOrder(TreeNode* root, vector<int>& vec) {
-        if(!root)
-            return;
-        
-        inOrder(root->left, vec);
-        vec.push_back(root->val);
-        inOrder(root->right, vec);
-
+    void inorder(TreeNode* node, vector<int>& vals) {
+        if(!node) return;
+        inorder(node->left, vals);
+        vals.push_back(node->val);
+        inorder(node->right, vals);
     }
-
-    TreeNode* construct(int l, int r, vector<int>& vec) {
-        if(l > r)
-            return NULL;
-        
-        int mid = l + (r-l)/2;
-        TreeNode* root = new TreeNode(vec[mid]);
-
-        root->left  = construct(l, mid-1, vec);
-        root->right = construct(mid+1, r, vec);
-
-        return root;
+    TreeNode* build(const vector<int>& vals, int l, int r) {
+        if(l > r) return nullptr;
+        int mid = (l + r) / 2;
+        TreeNode* node = new TreeNode(vals[mid]);
+        node->left  = build(vals, l, mid - 1);
+        node->right = build(vals, mid + 1, r);
+        return node;
     }
-
     TreeNode* balanceBST(TreeNode* root) {
-        vector<int> vec;
-        inOrder(root, vec);
-        int l = 0, r = vec.size()-1;
-
-        return construct(l, r, vec);
+        vector<int> vals;
+        inorder(root, vals);
+        return build(vals, 0, (int)vals.size() - 1);
     }
 };
