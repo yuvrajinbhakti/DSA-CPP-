@@ -401,6 +401,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0067-add-binary) |
 | [0090-subsets-ii](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0090-subsets-ii) |
 | [0190-reverse-bits](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0191-number-of-1-bits) |
@@ -521,6 +522,7 @@
 | [0020-valid-parentheses](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0038-count-and-say) |
+| [0067-add-binary](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0079-word-search) |
 | [0151-reverse-words-in-a-string](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0165-compare-version-numbers) |
@@ -860,6 +862,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0067-add-binary) |
 | [1441-build-an-array-with-stack-operations](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1441-build-an-array-with-stack-operations) |
 | [1642-water-bottles](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1642-water-bottles) |
 | [1929-concatenation-of-array](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1929-concatenation-of-array) |
@@ -907,6 +910,7 @@
 | [0013-roman-to-integer](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0067-add-binary) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0268-missing-number](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0326-power-of-three) |
