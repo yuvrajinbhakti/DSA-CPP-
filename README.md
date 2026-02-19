@@ -529,6 +529,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0165-compare-version-numbers) |
 | [0242-valid-anagram](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0242-valid-anagram) |
+| [0696-count-binary-substrings](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0696-count-binary-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0721-accounts-merge](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0721-accounts-merge) |
 | [0768-partition-labels](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0768-partition-labels) |
@@ -850,6 +851,7 @@
 | [0287-find-the-duplicate-number](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0287-find-the-duplicate-number) |
 | [0611-valid-triangle-number](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0611-valid-triangle-number) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0696-count-binary-substrings](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0696-count-binary-substrings) |
 | [0768-partition-labels](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0868-push-dominoes) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
