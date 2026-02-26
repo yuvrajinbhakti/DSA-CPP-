@@ -413,6 +413,7 @@
 | [0401-binary-watch](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0401-binary-watch) |
 | [0645-set-mismatch](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0645-set-mismatch) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0934-bitwise-ors-of-subarrays) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2400-minimum-score-after-removals-on-a-tree) |
@@ -544,6 +545,7 @@
 | [1250-longest-common-subsequence](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1250-longest-common-subsequence) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1653-minimum-deletions-to-make-string-balanced) |
@@ -867,6 +869,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0067-add-binary) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1441-build-an-array-with-stack-operations](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1441-build-an-array-with-stack-operations) |
 | [1642-water-bottles](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1642-water-bottles) |
 | [1929-concatenation-of-array](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1929-concatenation-of-array) |
