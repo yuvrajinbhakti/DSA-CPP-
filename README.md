@@ -414,6 +414,7 @@
 | [0645-set-mismatch](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0645-set-mismatch) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2400-minimum-score-after-removals-on-a-tree) |
@@ -872,6 +873,7 @@
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1441-build-an-array-with-stack-operations](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1441-build-an-array-with-stack-operations) |
 | [1642-water-bottles](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1642-water-bottles) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1929-concatenation-of-array](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1929-concatenation-of-array) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2048-build-array-from-permutation](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2048-build-array-from-permutation) |
@@ -936,6 +938,7 @@
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1642-water-bottles](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1642-water-bottles) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2050-count-good-numbers](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2050-count-good-numbers) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/yuvrajinbhakti/DSA-CPP-/tree/master/2244-number-of-laser-beams-in-a-bank) |
